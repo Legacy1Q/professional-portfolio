@@ -1,0 +1,52 @@
+/* Body */
+* {
+    background-color: #212121;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #323232;
+    margin: auto;
+}
+
+.navbar-nav .nav-link {
+    color: #14ffec;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0d7377;
+}
+
+.navbar .navbar-toggler {
+    border-color: #848282;
+}
+
+/* Bio */
+.card {
+    background-color: #323232;
+    border-color: #848282;
+    padding: 10px;
+    margin: 100px;
+}
+
+.card-body .card-title {
+    color: #14ffec;
+}
+
+.card-body .card-text {
+    color: #0d7377;
+}
+
+/* Projects */
+.text-center { 
+    color: #14ffec;
+}
+
+/* Footer */
+.footer {
+    background-color: #323232;
+    color: #14ffec;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
